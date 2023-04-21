@@ -7,23 +7,31 @@
     
 }
 
-#d1{
+#latest-news-section{
    
-    
+     padding: 30px;
+    border-radius: 5px;
     border: 1px solid black;
     width: 400px;
+	background-color: white;
 }
-#d2{
+#main-articles{
     
     text-align: center;
     border: 1px solid black;
     width: 500px;
+	 padding: 30px;
+    border-radius: 5px;
+	background-color: white;
 }
-#d3{
+#pictorial-news-section{
     
     text-align: center;
     border: 1px solid black;
     width: 400px;
+	 padding: 30px;
+    border-radius: 5px;
+	background-color: white;
 }
 
 .body{
